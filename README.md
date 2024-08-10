@@ -1,5 +1,7 @@
 ﻿# 🔥 Detection-Fire
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f72c1c1a-588f-4f9c-a1ec-8ce728228870" width="400">
+</div>
 ## 🚀 Project Overview
 
 **Système avancé de détection d'incendie par intelligence artificielle (SDIA)**
