@@ -14,15 +14,23 @@ Key components of the project include data preprocessing, model training, and pe
 - **SVM with RBF Kernel**: The model achieved an accuracy of **95.15%**.
 - **SVM with Polynomial Kernel**: The model achieved an accuracy of **93.60%**.
 - **Decision Tree**: The model achieved an accuracy of **86.20%**.
+
 ### Confusion Matrices
+
 - **SVM with RBF Kernel**
-![Confusion Matrix - SVM RBF](https://github.com/user-attachments/assets/ea4dcd04-ba0b-4e62-9d91-78d526f7e870)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea4dcd04-ba0b-4e62-9d91-78d526f7e870" width="400">
+</div>
 
 - **SVM with Polynomial Kernel**
-![Confusion Matrix - SVM Poly](https://github.com/user-attachments/assets/adf45d4c-dc57-438f-a034-e2e2cdc8a1f9)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/adf45d4c-dc57-438f-a034-e2e2cdc8a1f9" width="400">
+</div>
 
 - **Decision Tree**
-![Confusion Matrix - Decision Tree](https://github.com/user-attachments/assets/25c4415d-d1a8-40f1-a0f5-bbb1f2175dd5)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/25c4415d-d1a8-40f1-a0f5-bbb1f2175dd5" width="400">
+</div>
 
 ## Technologies Utilisées
 
@@ -31,5 +39,6 @@ Key components of the project include data preprocessing, model training, and pe
 - **Scikit-learn** : Pour l'implémentation des modèles SVM et arbres de décision.
 - **Python** : Langage de programmation principal utilisé dans ce projet.
 
-- ## Contact
-Pour toute question, veuillez contacter  à [chattichiheb35@gmail.com].
+## Contact
+
+Pour toute question, veuillez contacter à [chattichiheb35@gmail.com].
