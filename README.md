@@ -1,10 +1,8 @@
-﻿# 🔥 Detection-Fire
+﻿# 🔥 Système avancé de détection d'incendie par intelligence artificielle (SDIA) 🔥
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f72c1c1a-588f-4f9c-a1ec-8ce728228870" width="400">
 </div>
-## 🚀 Project Overview
 
-**Système avancé de détection d'incendie par intelligence artificielle (SDIA)**
 
 This project focuses on developing an advanced fire detection system using artificial intelligence (AI) and data science. The primary goal is to enhance the accuracy and speed of forest fire detection, particularly in high-risk areas. The approach involves utilizing computer vision techniques and machine learning algorithms, specifically **Support Vector Machines (SVM)** and **Decision Trees**, to classify images into three categories: **fire**, **smoke**, and **non-fire**.
 
