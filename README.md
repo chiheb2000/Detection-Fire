@@ -1,21 +1,22 @@
-﻿# Detection-Fire
-## Project Overview
+﻿# 🔥 Detection-Fire
+
+## 🚀 Project Overview
 
 **Système avancé de détection d'incendie par intelligence artificielle (SDIA)**
 
-This project focuses on developing an advanced fire detection system using artificial intelligence (AI) and data science. The primary goal is to enhance the accuracy and speed of forest fire detection, particularly in high-risk areas. The approach involves utilizing computer vision techniques and machine learning algorithms, specifically Support Vector Machines (SVM) and Decision Trees, to classify images into three categories: fire, smoke, and non-fire.
+This project focuses on developing an advanced fire detection system using artificial intelligence (AI) and data science. The primary goal is to enhance the accuracy and speed of forest fire detection, particularly in high-risk areas. The approach involves utilizing computer vision techniques and machine learning algorithms, specifically **Support Vector Machines (SVM)** and **Decision Trees**, to classify images into three categories: **fire**, **smoke**, and **non-fire**.
 
-The dataset used for training and testing the models is the "Forest Fire Smoke and Non-Fire Image Dataset" from Kaggle, consisting of 15,078 images. This project demonstrates significant improvements in fire detection accuracy, which can contribute to preventing extensive damage caused by forest fires.
+The dataset used for training and testing the models is the _"Forest Fire Smoke and Non-Fire Image Dataset"_ from Kaggle, consisting of 15,078 images. This project demonstrates significant improvements in fire detection accuracy, which can contribute to preventing extensive damage caused by forest fires.
 
 Key components of the project include data preprocessing, model training, and performance evaluation. The system has shown high efficiency in real-time detection scenarios, making it a promising tool for disaster management and natural resource protection.
 
-## Model Performance
+## 📊 Model Performance
 
-- **SVM with RBF Kernel**: The model achieved an accuracy of **95.15%**.
-- **SVM with Polynomial Kernel**: The model achieved an accuracy of **93.60%**.
-- **Decision Tree**: The model achieved an accuracy of **86.20%**.
+- **✨ SVM with RBF Kernel**: The model achieved an accuracy of **95.15%**.
+- **⚙️ SVM with Polynomial Kernel**: The model achieved an accuracy of **93.60%**.
+- **🌳 Decision Tree**: The model achieved an accuracy of **86.20%**.
 
-### Confusion Matrices
+### 📉 Confusion Matrices
 
 - **SVM with RBF Kernel**
 <div align="center">
@@ -32,13 +33,13 @@ Key components of the project include data preprocessing, model training, and pe
   <img src="https://github.com/user-attachments/assets/25c4415d-d1a8-40f1-a0f5-bbb1f2175dd5" width="400">
 </div>
 
-## Technologies Utilisées
+## 🛠️ Technologies Utilisées
 
-- **YOLOv8** : Modèle de détection d'objets en temps réel.
-- **OpenCV** : Bibliothèque de vision par ordinateur pour le traitement des images.
-- **Scikit-learn** : Pour l'implémentation des modèles SVM et arbres de décision.
-- **Python** : Langage de programmation principal utilisé dans ce projet.
+- **🔍 YOLOv8** : Modèle de détection d'objets en temps réel.
+- **🖼️ OpenCV** : Bibliothèque de vision par ordinateur pour le traitement des images.
+- **📊 Scikit-learn** : Pour l'implémentation des modèles SVM et arbres de décision.
+- **🐍 Python** : Langage de programmation principal utilisé dans ce projet.
 
-## Contact
+## 📬 Contact
 
-Pour toute question, veuillez contacter à [chattichiheb35@gmail.com].
+Pour toute question, veuillez contacter à [📧 chattichiheb35@gmail.com](mailto:chattichiheb35@gmail.com).
